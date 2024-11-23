@@ -1,0 +1,60 @@
+body {
+    background-color: grey;
+    height: 1600px;
+    font-family: "Bokor", system-ui;
+
+}
+.txt {
+    height: 300px ;
+    width: 300px;
+    margin: auto;
+}
+img {
+    border: 10px solid black;
+    border-radius: 15px;
+    height: 1000px;
+    width: 1000px;
+}
+.menu  {
+    background-color: rgb(138, 110, 110);
+}
+ol {
+    background-color: rgb(114, 3, 3);
+    list-style: none;
+    color: darkgray;
+    display: flex;
+    justify-content: space-around;
+    width: 30%;
+}
+.button:hover {
+    color: rgb(43, 37, 37);
+    transition: all 0.4s;
+}
+a:hover {
+    color: rgb(43, 37, 37);
+    transition: all 0.4s;
+}
+a {
+    color: rgb(100, 0, 0);
+    text-decoration: none;
+    height: 50px;
+    width: 50px;
+    font-size: 50px;
+}
+p {
+    color: black;
+    font-size: 75px;
+}
+h1 {
+    font-size: 75px;
+}
+h2 {
+    font-size: 75px;
+}
+h3 {
+    font-size: 75px;
+}
+button{
+    height: 250px;
+    width: 400px;
+}
